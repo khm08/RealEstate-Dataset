@@ -1,0 +1,6 @@
+# Dashboard Structure
+1. Import datasets (`.csv` or `.xlsx`) into Power BI/Tableau.
+2. Use slicers for city and date filters.
+3. Recommended visuals:
+   - Bar chart for Top Cities by Total Sales.
+   - Line chart for Market Trends (Average Price, Listings, Interest Rates).
